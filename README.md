@@ -8,7 +8,7 @@
 
 💡 I like building products that solve problems people actually have, mostly with React and AWS. Open to internships.
 
-🌐 [View My Portfolio](https://your-portfolio-link-here)
+🌐 [View My Portfolio](https://portfolio-umber-alpha-20.vercel.app)
 
 ## 🛠️ Tech I Work With
 
@@ -28,4 +28,4 @@
 
 ## 📫 Get in Touch
 
-[LinkedIn](https://linkedin.com/in/your-linkedin-here) · [Email](mailto:krishikajain120707@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/krishika-jain-9462b9376) · [Email](mailto:krishikajain120707@gmail.com)
